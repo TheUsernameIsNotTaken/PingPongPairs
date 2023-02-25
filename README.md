@@ -32,15 +32,14 @@ A szoftver használati útmutatója:
       A gomb megnyomására megnyitja az `Olvass el!.txt` fájlt.
 
 ## **A program megfelelő működése érdekében:**
-**_FIGYELEM!_**
-	1. Kérem, hogy az alkalmazás könyvtárán belüli adatok mappában lévő fájlokat **ne törölje**, és a bennük lévő adatokat **ne módosítsa**!
-	2. A **hang** mappán belüli adatokat **ne törölje**!
-	3. A **subvi** mappán belül **ne módosítsa, vagy törölje** az állományokat!
-
+   **_FIGYELEM!_**
+   1. Kérem, hogy az alkalmazás könyvtárán belüli adatok mappában lévő fájlokat **ne törölje**, és a bennük lévő adatokat **ne módosítsa**!
+   2. A **hang** mappán belüli adatokat **ne törölje**!
+   3. A **subvi** mappán belül **ne módosítsa, vagy törölje** az állományokat!
 
 ## Egyéb tudnivalók:
-1. Amennyiben az alap 8 becenévtől eltérő beceneveket is akar kimondatni a programmal, akkor a hang mappába másolja bele a becenevek hangfelvételét a! A fájl neve legyen `Becenév.wav`! Fontos, hogy a fájl neve **NAGYBETŰVEL** kezdődjön!
-	2. Az elkezdett felolvasási folyamatot nem lehet megszakítani!
+   1. Amennyiben az alap 8 becenévtől eltérő beceneveket is akar kimondatni a programmal, akkor a hang mappába másolja bele a becenevek hangfelvételét a! A fájl neve legyen `Becenév.wav`! Fontos, hogy a fájl neve **NAGYBETŰVEL** kezdődjön!
+   2. Az elkezdett felolvasási folyamatot nem lehet megszakítani!
 
 ## Köszönet
-Köszönet Kajtár Gergőnek a Design, a Dokumentáció, és a Programrendezés területén végzett munkájáért, Kajtár Bencének a Hangokért és Vizi Tibor tanárúrnak az egész éves munkáért.
+   Köszönet Kajtár Gergőnek a Design, a Dokumentáció, és a Programrendezés területén végzett munkájáért, Kajtár Bencének a Hangokért és Vizi Tibor tanárúrnak az egész éves munkáért.
