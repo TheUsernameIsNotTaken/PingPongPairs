@@ -40,7 +40,6 @@ A szoftver használati útmutatója.
 ## Egyéb tudnivalók
    1. Amennyiben az alap 8 becenévtől eltérő beceneveket is akar kimondatni a programmal, akkor a hang mappába másolja bele a becenevek hangfelvételét a! A fájl neve legyen `Becenév.wav`! Fontos, hogy a fájl neve **NAGYBETŰVEL** kezdődjön!
    2. Az elkezdett felolvasási folyamatot nem lehet megszakítani!
-   3. A portableprogram.zip a teljes app futtatható és könnyen mozgatható build-jét tartalmazza. LabVIEW runtime engine szükséges hozzá.
 
 ## Köszönet
    Köszönet Kajtár Gergőnek a Design, a Dokumentáció, és a Programrendezés területén végzett munkájáért, Kajtár Bencének a Hangokért és Vizi Tibor tanárúrnak az egész éves munkáért.
