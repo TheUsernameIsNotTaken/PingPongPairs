@@ -2,17 +2,15 @@
 A szoftver használati útmutatója:
 
 ## A program futtatásának menete:
-1. Az alkalmazás mappáján belül a "csapatok.txt" fájlt módosítsa a csapatok
-	    aktuális felépítésének megfelelően.
-	2. A 2 csapat tagjait láthatja ABC sorrendben a "A csapatok tagjai" felirat alatt.
-	3. Nyomja meg a "Sorsolás" gombot a véletlenszerű párosításhoz.
-	4. A kisorsolt párosítást láthatja a "Az összesorsolt párok" felirat alatt.
-	5. Ezt a párosítást a "Felolvasás" gomb lenyomásával a gép automatikusan felolvassa, teljes mondatokban. A felolvasás megismételhető.
-	6. A párosításokat utólag is megtekintheti, az alkalmazás mappáján belül a "Naplók" mappában a dátum_x.txt naplófájlban (amiben az x az épp aktuális napon
-     keletkezett naplófájl sorszámát jelenti), ami tartalmazza a mentés időpontját másodpercre pontosan, és a párok neveit is.
-	7. A naplófájlt a "Naplófájl megnyitása" gomb meg is jeleníti.
-	8. Az "Olvass el fájl megnyitása" gombra kattintva megnyílik az "Olvass el!" fájl, ahol további információkat tudhat meg (ön most épp ezt olvassa).
-	9. A program a "Leállítás" gomb megnyomására leáll.
+1. Az alkalmazás mappáján belül a "csapatok.txt" fájlt módosítsa a csapatok aktuális felépítésének megfelelően.
+2. A 2 csapat tagjait láthatja ABC sorrendben a "A csapatok tagjai" felirat alatt.
+3. Nyomja meg a "Sorsolás" gombot a véletlenszerű párosításhoz.
+4. A kisorsolt párosítást láthatja a "Az összesorsolt párok" felirat alatt.
+5. Ezt a párosítást a "Felolvasás" gomb lenyomásával a gép automatikusan felolvassa, teljes mondatokban. A felolvasás megismételhető.
+6. A párosításokat utólag is megtekintheti, az alkalmazás mappáján belül a "Naplók" mappában a dátum_x.txt naplófájlban (amiben az x az épp aktuális napon keletkezett naplófájl sorszámát jelenti), ami tartalmazza a mentés időpontját másodpercre pontosan, és a párok neveit is.
+7. A naplófájlt a "Naplófájl megnyitása" gomb meg is jeleníti.
+8. Az "Olvass el fájl megnyitása" gombra kattintva megnyílik az "Olvass el!" fájl, ahol további információkat tudhat meg (ön most épp ezt olvassa).
+9. A program a "Leállítás" gomb megnyomására leáll.
 
 ## További fontos tudnivalók:
  1. A `Módosítás` gomb:
