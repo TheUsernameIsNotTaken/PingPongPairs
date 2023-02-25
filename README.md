@@ -1,5 +1,5 @@
-# Ping-Pong Pársorsoló alkalmazás LabVIEW-ban megírva.
-A szoftver használati útmutatója.
+# Ping-Pong Pársorsoló alkalmazás telepíthető alkalmazás
+A szoftver használati útmutatója. Ez a branch a telepíthető buildjét tartalmazza az alkalmazásnak
 
 ## A program futtatásának menete
    1. Az alkalmazás mappáján belül a "csapatok.txt" fájlt módosítsa a csapatok aktuális felépítésének megfelelően.
@@ -40,7 +40,6 @@ A szoftver használati útmutatója.
 ## Egyéb tudnivalók
    1. Amennyiben az alap 8 becenévtől eltérő beceneveket is akar kimondatni a programmal, akkor a hang mappába másolja bele a becenevek hangfelvételét a! A fájl neve legyen `Becenév.wav`! Fontos, hogy a fájl neve **NAGYBETŰVEL** kezdődjön!
    2. Az elkezdett felolvasási folyamatot nem lehet megszakítani!
-   3. A `portableprogram.zip` egy portable buildje az alkalmazásnak.
 
 ## Köszönet
    Köszönet Kajtár Gergőnek a Design, a Dokumentáció, és a Programrendezés területén végzett munkájáért, Kajtár Bencének a Hangokért és Vizi Tibor tanárúrnak az egész éves munkáért.
