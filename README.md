@@ -1,7 +1,7 @@
 # Ping-Pong Pársorsoló alkalmazás LabVIEW-ban megírva.
-A szoftver használati útmutatója:
+A szoftver használati útmutatója.
 
-## A program futtatásának menete:
+## A program futtatásának menete
    1. Az alkalmazás mappáján belül a "csapatok.txt" fájlt módosítsa a csapatok aktuális felépítésének megfelelően.
    2. A 2 csapat tagjait láthatja ABC sorrendben a "A csapatok tagjai" felirat alatt.
    3. Nyomja meg a "Sorsolás" gombot a véletlenszerű párosításhoz.
@@ -12,7 +12,7 @@ A szoftver használati útmutatója:
    8. Az "Olvass el fájl megnyitása" gombra kattintva megnyílik az "Olvass el!" fájl, ahol további információkat tudhat meg (ön most épp ezt olvassa).
    9. A program a "Leállítás" gomb megnyomására leáll.
 
-## További fontos tudnivalók:
+## További fontos tudnivalók
    1. A `Módosítás` gomb: 
       Segítségével, ha a csapatokban nem lenne mindenkinek párja, akkor ennek a gombnak a segítségével megnyithatja, és módosíthatja a fájlt.
    2. Az `Újraolvasás` gomb: Segítségével ismét beolvashatja az előzőleg már beolvasott hibás, vagy módosított csapatokat tartalmazó fájlt.
@@ -31,13 +31,13 @@ A szoftver használati útmutatója:
    7. Az `Olvass el fájl megnyitása` gomb:
       A gomb megnyomására megnyitja az `Olvass el!.txt` fájlt.
 
-## **A program megfelelő működése érdekében:**
+## **A program megfelelő működése érdekében**
    **_FIGYELEM!_**
    1. Kérem, hogy az alkalmazás könyvtárán belüli adatok mappában lévő fájlokat **ne törölje**, és a bennük lévő adatokat **ne módosítsa**!
    2. A **hang** mappán belüli adatokat **ne törölje**!
    3. A **subvi** mappán belül **ne módosítsa, vagy törölje** az állományokat!
 
-## Egyéb tudnivalók:
+## Egyéb tudnivalók
    1. Amennyiben az alap 8 becenévtől eltérő beceneveket is akar kimondatni a programmal, akkor a hang mappába másolja bele a becenevek hangfelvételét a! A fájl neve legyen `Becenév.wav`! Fontos, hogy a fájl neve **NAGYBETŰVEL** kezdődjön!
    2. Az elkezdett felolvasási folyamatot nem lehet megszakítani!
 
